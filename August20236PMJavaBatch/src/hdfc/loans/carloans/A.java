@@ -10,7 +10,7 @@ public  class A
 	public void m1()
 	{
 		x=200;
-		System.out.println("iam m1 from A");
+		System.out.println("Iam m1 from A");		
 	}
 	
 	public static void m5()
